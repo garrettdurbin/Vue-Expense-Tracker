@@ -1,1 +1,1 @@
-Main files are in the "components" folder.
+Main files are under source/components.
